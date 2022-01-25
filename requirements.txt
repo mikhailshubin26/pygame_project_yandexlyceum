@@ -1,0 +1,2 @@
+pygame 20.0.0+
+python 3.8+
